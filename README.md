@@ -1,4 +1,3 @@
-# (this is an abandoned project)
 # Coal Mod Menu
 Coal is a **legal** mod menu made from [ii's Stupid Template](https://github.com/iiDk-the-actual/iis.Stupid.Template).
 ## Installation
